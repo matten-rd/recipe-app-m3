@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Mina recept</string>
+
+    <!-- Bottom nav strings -->
+    <string name="screen_home">Inspiration</string>
+    <string name="screen_my_recipes">Mina recept</string>
+    <string name="screen_planning">Planera</string>
+    <string name="screen_profile">Profil</string>
+
+    <!-- Sort order -->
+    <string name="by_name">A-Z</string>
+    <string name="by_name_reverse">Z-A</string>
+    <string name="favorites_first">Favoriter först</string>
+    <string name="by_popularity">Populärast först</string>
+
+    <!-- Categories -->
+    <string-array name="categories">
+        <item>Förrätt</item>
+        <item>Huvudrätt</item>
+        <item>Efterrätt</item>
+        <item>Bakning</item>
+    </string-array>
+
+    <!-- Handle plurals of portions : note that the zero item won't be accessed -->
+    <string name="number_of_portions_zero">Antal portioner ej valt</string>
+    <plurals name="number_of_portions">
+        <item quantity="zero">@string/number_of_portions_zero</item>
+        <item quantity="one">%1$d portion</item>
+        <item quantity="other">%1$d portioner</item>
+    </plurals>
+
+    <!-- Handle plurals of categories : note that the zero item won't be accessed -->
+    <string name="number_of_categories_zero">Inga kategorier valda</string>
+    <plurals name="number_of_categories">
+        <item quantity="zero">@string/number_of_categories_zero</item>
+        <item quantity="one">%1$d kategori vald</item>
+        <item quantity="other">%1$d kategorier valda</item>
+    </plurals>
+
+
+</resources>
