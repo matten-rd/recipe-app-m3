@@ -1,6 +1,8 @@
 # RecipeApp
 This is an app which implements an algorithm to "scan" a web recipe and extract title, description, ingredients, instructions, image, yield and cook time. 
 
+🚧 This app is currently a work in progress.
+
 :heavy_exclamation_mark: At this time the algorithm only works for swedish recipes.
 
 Simplified overview of the "scanning" process:
