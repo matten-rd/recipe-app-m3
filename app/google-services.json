@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "666945482200",
+    "project_id": "recipe-and-mealplanner",
+    "storage_bucket": "recipe-and-mealplanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666945482200:android:15ac9e5091968ecd3ad6ad",
+        "android_client_info": {
+          "package_name": "com.example.minarecept"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666945482200-l4ehvvliv90ogkpqfmv9lstp8q7p1gag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minarecept",
+            "certificate_hash": "57088fd3457dcdd334be6adc4a2eb7c27613e33f"
+          }
+        },
+        {
+          "client_id": "666945482200-lb5r6ctkoot4ah4095tshefg9k1r9o39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minarecept",
+            "certificate_hash": "2d80979abf787881d48eed558a0bd686b0267f60"
+          }
+        },
+        {
+          "client_id": "666945482200-5843022tjjm49pan268icqlbmjejtsep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJJReWmMAWLVzd0N72UVJOoAoxBriZPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666945482200-5843022tjjm49pan268icqlbmjejtsep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666945482200:android:5dbf326b64a1d8b03ad6ad",
+        "android_client_info": {
+          "package_name": "com.strand.minarecept"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666945482200-5843022tjjm49pan268icqlbmjejtsep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJJReWmMAWLVzd0N72UVJOoAoxBriZPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666945482200-5843022tjjm49pan268icqlbmjejtsep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -4,7 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/stran/AndroidStudioProjects/Minarecept/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/stran/AndroidStudioProjects/Minarecept/app/src/main/res/drawable/add_icon_light.xml" value="0.41384615384615386" />
+        <entry key="..\:/Users/stran/AndroidStudioProjects/Minarecept/app/src/main/res/drawable/app_logo.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/stran/AndroidStudioProjects/Minarecept/app/src/main/res/drawable/ic_app.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/stran/AndroidStudioProjects/Minarecept/app/src/main/res/drawable/ic_app_back.xml" value="0.2518518518518518" />
+        <entry key="..\:/Users/stran/AndroidStudioProjects/Minarecept/app/src/main/res/drawable/ic_app_front.xml" value="0.2518518518518518" />
+        <entry key="..\:/Users/stran/AndroidStudioProjects/Minarecept/app/src/main/res/drawable/ic_facebook_icon.xml" value="0.41384615384615386" />
+        <entry key="..\:/Users/stran/AndroidStudioProjects/Minarecept/app/src/main/res/drawable/ic_google_icon.xml" value="0.41384615384615386" />
         <entry key="..\:/Users/stran/AndroidStudioProjects/Minarecept/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/stran/AndroidStudioProjects/Minarecept/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.15555555555555556" />
         <entry key="..\:/Users/stran/AndroidStudioProjects/Minarecept/app/src/main/res/drawable/ic_launcher_foreground_dark.xml" value="0.23541666666666666" />
         <entry key="..\:/Users/stran/AndroidStudioProjects/Minarecept/app/src/main/res/drawable/logo.xml" value="0.3972222222222222" />
         <entry key="..\:/Users/stran/AndroidStudioProjects/Minarecept/app/src/main/res/drawable/logo_background.xml" value="0.3972222222222222" />
