@@ -14,3 +14,22 @@ Simplified overview of the "scanning" process:
   * The two top scoring nodes for ingredients and instructions respectively are singled out and the LCA (lowest common ancestor) is determined and then all child nodes are considered ingredients/instructions.
  
  Note that this process will fail sometimes however some testing has shown that it's quite rare. Furthermore the algorithm sometimes gives back extra data which is intention as it otherwise might miss some data which is worse - the user can always edit the recipe and delete any extra data.
+
+Some videos of the app in action
+-
+Scrape recipe from the web:
+
+https://user-images.githubusercontent.com/63340744/150214723-437f886d-4564-44a9-8a77-f37d2207796f.mp4
+
+Sign in. Detail screen and editing recipe:
+
+https://user-images.githubusercontent.com/63340744/150219336-e10ed10f-c1c1-42b7-b0bc-ce8c4d603b3d.mp4
+
+Different ways of adding a new recipe (you can add from share sheet as well):
+
+https://user-images.githubusercontent.com/63340744/150220008-e593d85d-7fef-4ffd-b56a-06798fbb6098.mp4
+
+Planning meals:
+
+https://user-images.githubusercontent.com/63340744/150220531-16fcd17a-44a2-4718-b636-3eff41fbe21a.mp4
+
